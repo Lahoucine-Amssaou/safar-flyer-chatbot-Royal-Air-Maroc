@@ -38,3 +38,7 @@ Crée un fichier `.env` à partir de `.env.example` et renseigne :
 ## Stack
 
 - LangChain · ChromaDB · Gemini 1.5 Flash · BeautifulSoup4
+
+## Note
+
+Projet initialement développé en décembre 2025 dans le cadre d'un projet innovation à l'École Centrale Casablanca, en partenariat avec Royal Air Maroc.
